@@ -1,0 +1,20 @@
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\obj\Debug\Loki.csprojResolveAssemblyReference.cache
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\obj\Debug\Loki.MainForm.resources
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\obj\Debug\Loki.csproj.GenerateResource.Cache
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\bin\Debug\Loki.exe.config
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\bin\Debug\Loki.exe
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\bin\Debug\Loki.pdb
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\obj\Debug\Loki.exe
+C:\Users\rl2570\Documents\SharpDevelop Projects\Loki\Loki\obj\Debug\Loki.pdb
+D:\reports_new\utils\tools\Loki\src\Loki\obj\Debug\Loki.csprojResolveAssemblyReference.cache
+D:\reports_new\utils\tools\Loki\src\Loki\obj\Debug\Loki.MainForm.resources
+D:\reports_new\utils\tools\Loki\src\Loki\obj\Debug\Loki.csproj.GenerateResource.Cache
+D:\reports_new\utils\tools\Loki\src\Loki\obj\Debug\Loki.exe
+D:\reports_new\utils\tools\Loki\src\Loki\bin\Debug\Loki.exe.config
+D:\reports_new\utils\tools\Loki\src\Loki\bin\Debug\Loki.exe
+D:\reports_new\utils\tools\Loki\src\Loki\bin\Debug\Loki.pdb
+D:\reports_new\utils\tools\Loki\src\Loki\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\reports_new\utils\tools\Loki\src\Loki\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\reports_new\utils\tools\Loki\src\Loki\obj\Debug\Loki.pdb
