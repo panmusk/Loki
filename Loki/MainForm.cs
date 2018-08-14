@@ -46,6 +46,7 @@ namespace Loki
 					RptTools.ReplaceTextsRpt(FilePathTxb.Text, OldTextb.Text, NewTextb.Text, DestFolderTxb.Text, DestFilenamePrefixTbx.Text);
 				} else {
 					if (!FileRadio.Checked && Directory.Exists(FilePathTxb.Text)) {
+						//TODO implement Program.GetFiles(string dir, string pattern, ref List<string> files)
 						string[] Files;
 						Files = RecursiveChkb.Checked ? Directory.GetFiles(FilePathTxb.Text, "*.rpt", SearchOption.AllDirectories) : Directory.GetFiles(FilePathTxb.Text, "*.rpt");
 						foreach (string FileName in Files) {
@@ -112,6 +113,7 @@ namespace Loki
 				Console.WriteLine("Done.");
 			} else {
 				if (!FileRadio.Checked && Directory.Exists(FilePathTxb.Text)) {
+					//TODO implement Program.GetFiles(string dir, string pattern, ref List<string> files)
 					string[] Files;
 					Files = RecursiveChkb.Checked ? Directory.GetFiles(FilePathTxb.Text, "*.docx", SearchOption.AllDirectories) : Directory.GetFiles(FilePathTxb.Text, "*.docx");
 					foreach (string FileName in Files) {
@@ -129,6 +131,7 @@ namespace Loki
 				int result = await WdTools.PrintDocxStats(FilePathTxb.Text, this.statsXpathChkb.Checked, this.statsSectionsChkb.Checked, this.statsFooterHeadersChkb.Checked);
 			} else {
 				if (!FileRadio.Checked && Directory.Exists(FilePathTxb.Text)) {
+					//TODO implement Program.GetFiles(string dir, string pattern, ref List<string> files)
 					string[] Files;
 					Files = RecursiveChkb.Checked ? Directory.GetFiles(FilePathTxb.Text, "*.docx", SearchOption.AllDirectories) : Directory.GetFiles(FilePathTxb.Text, "*.docx");
 					foreach (string FileName in Files) {
